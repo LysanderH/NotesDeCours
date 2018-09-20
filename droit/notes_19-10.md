@@ -4,7 +4,7 @@
 
 ### Les droits d'auteurs et la propriété intellectuelle
 
-La **Propriété Intellectuelle (PI)** est l'ensemble des droits qui confèrent à son ou ses titulaires et à ceux à qui le droit est cédé un droit exclusif d'exploitation temporaire pour un territoire donné et pour une durée donnée.  
+La **Propriété Intellectuelle (PI)** est l'ensemble des droits qui confèrent à son ou ses titulaires et à ceux à qui le droit est cédé, un droit exclusif d'exploitation temporaire pour un territoire donné et pour une durée donnée.  
 
 La PI != La propriété matérielle
 

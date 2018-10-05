@@ -43,3 +43,89 @@ Le **droit pénal** est l'ensemble des règles qui disent ce qui est permis et c
 |Greffier|Greffier|
 |X|Parquet (ministère public)|
 |MR et Mme qui divorcent|Le type qui a fait du 180 sur l'autoroute|
+
+### Les fonctions juridique
+
+En Belgique il y a trois pouvoir :
+1. Le pouvoir législatif (écrit les lois)
+1. Le pouvoir exécutif (exécute les lois)
+1. Le pouvoir judiciaire (contrôle si les lois sont bien appliquées)
+
+La justice est composée de différentes juridictions :
+1. Le tribunal de police
+1. Le juge de paix
+1. Le tribunal de première instance (TPI)
+	* Tribunal de famille
+	* Tribunal civil
+	* Tribunal correctionnel
+	* Tribunal d'application des peines
+1. Le tribunal de commerce
+1. Le tribunal de travail
+1. La cour d'appel
+1. La cour d'assises
+1. La cour de travail
+1. La cour de cassation
+
+Chaque juridiction est analysée a l'aide de différents critères :
+1. Quel est son enjeu
+1. Est-ce que la juridiction juge des cas d'instance ou d'appel
+1. Est-ce que sa forme est civil ou pénal
+1. Échevinage : avec une personne qui sort du milieu et qui a les connaissances techniques
+
+|Juridiction|Enjeu|Civil|Pénal|Instance|Appel|Échevinage|
+|------|------|:------:|:------:|:------:|:------:|:------:|
+|T. de Police|Roulage|X|X|X|||
+|J. de paix|Finances < 5000&euro;|X||X|||
+|T. de première instance||||X|X||
+|T. de famille|Famille|X|X|X|||
+|T. civil|Finances > 5000&euro;|X||X|X||
+|T. correctionnel|Infractions hors roulage||X|X|X||
+|T. a. des peines|Prison||X|X|||
+|T. commerce|Litiges entre commerçants|X||X||X|
+|T. travail|Droit social|X|X|X||X|
+|Cour d'appel|Appel TPI|X|X||X||
+|Cour du travail|Appel T. du travail|X|X||X|X|
+|Cour d'assise|/||||||
+
+**Cour d'assise :**
+* Elle ne siège pas toujours / elle est convoquée si nécessaire
+* Juges certaines infractions (très grave)
+* Il y a un jury de 15 personnes
+* Ce n'est pas possible d'aller en appel
+
+**Cour de cassation :**
+* Contrôle le travail des juges
+* Regarde si la procédure a été respectée
+
+### Préjugés sur la justice
+
+1. **La justice est lente!** Oui, mais il faut tenir compte de :
+	* Les juges doivent examiner les dossiers, ce qui nécessite un certain temps
+	* Il y a l'encombrement judiciaire
+	* Il existe des cas d'urgence :
+		* Référré
+		* Mode alternatif de règlement de conflit (MARC) :
+			* Médiation
+			* Arbitrage
+			* Conciliation
+			* Négociation
+1. **La justice est cher!** Oui c'est cher :
+	* Oui :
+		* L'avocat ne travail pas sous 100&euro;/h;
+		* Coût de traduction si nécessaire
+		* Coût de l'expertise si nécessaire
+		* Frais de la procédure
+	* Mais :
+		* Aide juridique
+			* conseils gratuit
+		* Prodeo = avocat payé par l'état
+		* assistances judiciaires
+		* protection juridique / assurance
+		* répétébilité (des frais de justice) : Celui qui perd le procès doit reprendre les frais du gagnant
+1. **Les juges sont laxiste** (qui est excessivement tolérant, indulgent) :
+	* Non :
+		* Le juge rend la loi
+		* Le juge doit être indépendant / impartial
+		* Il est contrôlé par le CSI  
+**CSI :** Entité qui nomme les juges (conseil supérieur de la justice).  
+**Cour de cassation :** Regarde si le juge a suivi les protocols.

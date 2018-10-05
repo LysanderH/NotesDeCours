@@ -129,3 +129,30 @@ Chaque juridiction est analysée a l'aide de différents critères :
 		* Il est contrôlé par le CSI  
 **CSI :** Entité qui nomme les juges (conseil supérieur de la justice).  
 **Cour de cassation :** Regarde si le juge a suivi les protocols.
+
+### Responsabilité civile  
+
+=> Problyme de droit civil, il y a deux relations possibles :
+1. Relation par un contrat => responsabilité contractuelle
+1. Relation sans contrat => responsabilité extra-contractuelle
+
+Le deuxième cas est la responsabilité civile  
+Ex. :
+* RC auto -> obligatoire pour conduire une voiture sur la rue
+* RC famille
+* Rc habitation  
+
+**Article 1382 code civil :** Tout fait quelconque de l'homme, qui cause à autrui un dommage, oblige celui par la faute duquel il est arrivé, à le réparer.  
+
+Il y a 3 condition pour parler de responsabilité civile :  
+1. Il faut qu'il y aie une **faute**
+1. Il faut qu'il y aie un **dommage**
+1. Il faut qu'il y aie un **lien causal entre faute et dommage**  
+
+* Article 1384 code civil : Prof pour étudiant
+* Article 1385 code civil : Responsabilité de votre chien
+* Article 1386 code civil : Si votre immeuble est sinistré et cause des deommmages à d'autres.  
+
+Vocabulaire :
+	* La preuve : le fait de pouvoir démontrer qqc.
+	* Clause de confidentialité : Ce qui est dit reste entre nous.

@@ -127,3 +127,4 @@ L'artiste touche entre 4% et 0.25% par vente.
 |---|---|---|
 |sanctions possibles|Peines|&euro; payer des dommages et interrèts|
 |Preuve|Il faut prouver qu'une personne avait une intention fraudeuse|/|
+ 

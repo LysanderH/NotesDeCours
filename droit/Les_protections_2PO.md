@@ -60,3 +60,4 @@ La durée est de **70 ans** après la mort du programmeur.
 
 Si un logiciel est libre, ça veut dire que le programmeur autorise d'accéder, de copier et de diffuser le programme.
 
+ 

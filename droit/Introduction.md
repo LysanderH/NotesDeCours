@@ -1,4 +1,4 @@
-# Introduction aux droits d'auteurs
+# Introduction aux droits d'auteurs 
 
 ## Introduction
 
@@ -152,4 +152,3 @@ Il y a 3 condition pour parler de responsabilité civile :
 * Article 1384 code civil : Prof pour étudiant
 * Article 1385 code civil : Responsabilité de votre chien
 * Article 1386 code civil : Si votre immeuble est sinistré et cause des deommmages à d'autres.  
- 

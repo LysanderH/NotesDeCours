@@ -1,4 +1,4 @@
-# Introdution aux droits d'auteurs
+# Introdution aux droits d'auteurs 
 
 ## Les protections
 

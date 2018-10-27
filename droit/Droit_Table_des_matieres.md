@@ -1,4 +1,4 @@
-# Introduction aux droits d'auteurs
+# Introduction aux droits d'auteurs 
 
 ## Table des matières
 
@@ -8,4 +8,3 @@
 	1. [Les programmes ordinateurs](./Les_protections_.2POmd)
 	1. [Les banques de données](./Les_protections_.3BDmd)
 1. [Vocabulaire](./vocabulaire)
- 

@@ -65,3 +65,65 @@ La durée est de **70 ans** après la mort de l'auteur.
 
 1. **Si se sont plusieurs auteurs :** 70 ans après la mort du denier survivant XD
 1. **Si l'auteur est anonyme :** 70 ans après la publication de l'oeuvre
+
+### Les droits voisin
+
+La loi reconnaît des droits aux personnes qui ont contribué à la création de l'oeuvre.
+
+#### Les trois acteurs :
+
+1. Les artistes interprètes (ex. Céline Dion pour laquelle J.J. Goldman compose les chansons)
+1. Le producteur (&euro;)
+1. Le radio-diffuseur (Radio et TV)
+
+#### Les droits qui leurs sont accordés
+
+Aux **trois acteurs** sont accordé les **droits patirmoniaux**, il faut donc une permission des trois si on veut utiliser l'oeuvre.
+
+**L'interprète** a des **droits moraux** sur son interprètation.  
+**Le diffuseur** a des **droits moraux** sur l'émission émise.
+
+#### Durée de protection
+
+L'oeuvre est protégé pendant 50 ans après :
+1. La première prestation
+1. La première communication publique
+1. La première diffusion
+
+#### Exception d'utilisation sans l'accord des voisins
+
+1. Citation dans un travail scientifique
+1. Reproduire l'oeuvre ou la communication au public dans un cadre informatif
+1. Cercle familial
+1. Enseignement
+1. Caricature
+1. Utiliser l'oeuvre pour des prestations qui bénificie à des présentation pour personnes handicapées
+1. Diffusion dans des hospitaux, prisons et organisme public
+
+#### Les droits de suite
+
+Ce droit permet à l'auteur de bénéficier sur les différentes ventes de son oeuvre. Cela concerne juste les 
+auteur d'oeuvres plastiques et graphiques.
+
+||1. vend||2. vend||3.vend||
+|---|:---:|---|:---:|---|:---:|---|
+|Autheur|=>|collectionneur|=>|collectionneur|=>|Gallerie|
+||100&euro;||3000&euro;||300 000&euro;||
+
+L'artiste touche entre 4% et 0.25% par vente.  
+
+1. L'autheur reçoit 100&euro; car c'est lui qui le vend
+1. L'autheur reçoit 4% de 3000&euro; = 120&euro;
+1. L'autheur reçoit 2% de 300 000&euro; = 600&euro;
+
+##### Les conditions
+
+1. Le prix doit être plus haut que 2000&euro;
+1. Cela compte juste pour des ventes entre professionnels du monde de l'art
+
+#### Les sanctions
+
+||Pénal|Civil|
+|---|---|---|
+|sanctions possibles|Peines|&euro; payer des dommages et interrèts|
+|Preuve|Il faut prouver qu'une personne avait une intention fraudeuse|/|
